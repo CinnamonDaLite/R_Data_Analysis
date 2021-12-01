@@ -19,4 +19,4 @@ There will be four options to organize by:
 4. Hour of Day
 Strategy: Visualize the data to fulfill each objective based on injury rate and death rate
 
-This includes a Shiny application and you do need to run the data_gather.R first to do the heavy lifting
+*This includes a Shiny application and you do need to run the data_gather.R first to do the heavy lifting
