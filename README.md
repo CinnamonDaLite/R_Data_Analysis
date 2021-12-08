@@ -20,4 +20,5 @@ There will be four options to organize by:
 Strategy: Visualize the data to fulfill each objective based on injury rate and death rate
 
 Note: This includes a Shiny application and you do need to run the data_gather.R first to do the heavy lifting
+
 Update log 12/8/21: R_Data_Analysis project updates maybe delayed until further notice
